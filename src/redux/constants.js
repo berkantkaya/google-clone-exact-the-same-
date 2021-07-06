@@ -1,0 +1,3 @@
+export const TYPES={
+    SET_SEARCH_TERM :'SET_SEARCH_TERM'
+}
